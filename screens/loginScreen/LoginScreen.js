@@ -19,7 +19,7 @@ function LoginScreen({navigation}) {
       } catch (error) {
         console.log(error)
       }
-      navigation.navigate('dashboard')
+      navigation.navigate('Dashboard')
     }
 
   return (

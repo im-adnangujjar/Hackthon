@@ -40,7 +40,7 @@ export const style = {
         marginTop: 12,
     },
     inputLabel: {
-        width: 75,
+        width: '100%',
         fontSize: 18,
         color: '#fff',
 
